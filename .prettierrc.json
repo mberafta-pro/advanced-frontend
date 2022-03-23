@@ -1,0 +1,8 @@
+{
+  "semiColons": false,
+  "singleQuote": true,
+  "quoteProps": "as-needed",
+  "arrowParens": "avoid",
+  "endOfLine": "lf",
+  "printWidth": 120
+}
